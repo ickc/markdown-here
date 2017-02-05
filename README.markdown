@@ -1,4 +1,4 @@
-The only thing I customized is the CSS in `src/common/default.css`.
+The only thing I customized is the CSS in [`src/common/default.css`](https://raw.githubusercontent.com/ickc/markdown-here/css-custom/src/common/default.css).
 
 # Personal Markdown-Here Settings
 
